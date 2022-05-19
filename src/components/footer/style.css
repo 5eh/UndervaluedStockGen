@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Outfit:wght@800&display=swap");
+.footer {
+  font-family: "Outfit";
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.docs {
+  font-family: "Outfit";
+  position: fixed;
+  bottom: 5px;
+  left: 10px;
+  width: 100%;
+  color: white;
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+.github {
+  font-family: "Outfit";
+  position: fixed;
+  bottom: 5px;
+  padding-left: 6%;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.apis {
+  font-family: "Outfit";
+  position: fixed;
+  bottom: 5px;
+  width: 100%;
+  color: white;
+  padding-left: 13%;
+  text-align: left;
+  font-size: 1.2rem;
+}

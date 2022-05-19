@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap");
+
+
+// https://codepen.io/maheshambure21/pen/QwXaRw?editors=1100 <- Ideal underline stroke 
+.navbar__spacing {
+  text-align: center;
+  float: center;
+  padding-top: 1%;
+}
+
+/* TECHICALS */
+.technicals {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 39px;
+  padding-top: 20px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.1em;
+
+  color: #ffffff;
+  opacity: 75%;
+}
+
+.fundamentals {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  padding-top: 30px;
+
+  color: #ffffff;
+  opacity: 85%;
+}
+
+.news {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 39px;
+  padding-top: 20px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.1em;
+
+  color: #ffffff;
+  opacity: 75%;
+}
