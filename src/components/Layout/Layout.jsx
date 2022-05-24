@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "../navbar/Navbar";
 import Footer from "../footer/Footer";
+import EnterStock from "../enterStock/enterStock";
 
 const Layout = () => {
   return (
     <>
       <Navbar />
-      <h1>gang gang</h1>
-
+      <EnterStock />
       <Footer />
     </>
   );

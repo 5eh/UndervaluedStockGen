@@ -1,0 +1,20 @@
+form {
+  padding-top: 20px;
+  min-height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form input,
+form button {
+  text-align: center;
+  border-radius: 45px;
+  font-size: 2rem;
+  border: none;
+  background: white;
+  text-transform: uppercase;
+  opacity: 75%;
+}
+.ticker__Input {
+  color: red;
+}
